@@ -3,7 +3,7 @@
 This repo contains (or links to) the documentation and Python script for the functions used in "[Persistent Homology of Complex Networks for Dynamic State Detection](https://arxiv.org/abs/1904.07403)."
 
 <p align="center">
-  <img src="https://github.com/myersau3/Network_Persistent_Homology/blob/master/figures/process.png">
+  <img src="https://github.com/Khasawneh-Lab/PH_complex_networks/blob/master/figures/process.png">
 </p>
 
 ## Usage and Documentation
